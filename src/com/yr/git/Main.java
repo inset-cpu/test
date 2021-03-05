@@ -8,5 +8,6 @@ public class Main {
 	int b = a+c;
         System.out.println(b);
         System.out.println("123456");
+	    System.out.printlm('2222')
     }
 }
