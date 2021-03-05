@@ -7,5 +7,6 @@ public class Main {
 	int c =3;
 	int b = a+c;
         System.out.println(b);
+        System.out.println("Ìá½»");
     }
 }
